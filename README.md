@@ -34,7 +34,7 @@ Problem Statement: Single-player merging Random number into 100 game.
 •	14 Move- 9*2, 7*11, 5*1
 
 
-### **Technical requirement: ** 
+## **Technical requirement: ** 
 ## Modules:-
 •	Array
 •	Random
