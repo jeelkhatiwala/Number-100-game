@@ -34,23 +34,23 @@ Problem Statement: Single-player merging Random number into 100 game.
 •	14 Move- 9*2, 7*11, 5*1
 
 
-###**Technical requirement:** 
-###Modules:-
+### **Technical requirement: ** 
+## Modules:-
 •	Array
 •	Random
 •	Tkinter
 •	String(may be)
-###Methods:
+## Methods:
 •	Append
 •	Remove
 •	If-else
 •	For 
-###Functions:
+## Functions:
 •	List
 •	Print
 •	Range
 •	Str(may be)
 
-###Attribute:-
+## Attribute:-
 •	__init__ 
 
